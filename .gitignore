@@ -487,3 +487,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+.vscode/settings.json
+api/Properties/launchSettings.json
